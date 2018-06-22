@@ -4,7 +4,8 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://domain.tld
+url:                   https://photocyte.github.io
+github_username:       photocyte
 
 # IMPORTANT: Set The "base URL" of your site.
 #
@@ -22,7 +23,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Timothy R. Fallon
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -33,8 +34,9 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  A Jekyll theme with JavaScript powers.
-  Open `_config.yml` to edit this text.
+  biologist, biochemist, genomics enthusiast, bioluminescence nut, PhD student @ MIT
+# A Jekyll theme with JavaScript powers.
+# Open `_config.yml` to edit this text.
 
 # A list of keywords for your blog
 keywords:              []
@@ -45,13 +47,13 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Timothy Fallon
+  email:               tfallon@mit.edu
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             photocyte
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2017. All rights reserved.
+copyright:             © 2018. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
@@ -73,7 +75,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/35701506_1935132846517938_8952421413646499840_n-2.jpg
 accent_color:          '#4fb1ba'
 
 # The string encoding which fonts to fetch from Google Fonts.
@@ -91,11 +93,11 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-# google_analytics:      UA-XXXXXXXX-X
+google_analytics:      UA-121214450-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                <disqus_shortname>
+disqus:                 photocyte-github-io
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
@@ -182,7 +184,7 @@ include:
 # ========================================================================================
 
 plugins:
-  # - jekyll-avatar
+  - jekyll-avatar
   # - jekyll-default-layout
   - jekyll-feed
   # - jekyll-gist
@@ -215,8 +217,8 @@ plugins:
 #   yandex:              <verification-id>
 
 # Used for Twitter cards
-# twitter:
-#   username:            <shortname>
+twitter:
+   username:            photocyte
 
 # Used for Facebook open graph
 # facebook:
@@ -225,11 +227,12 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+social:
+   name:                Timothy Fallon
+   links:
+     - https://twitter.com/photocyte
+     - https://github.com/photocyte
+     - https://www.fireflybase.org
 
 
 # Other Plugins
