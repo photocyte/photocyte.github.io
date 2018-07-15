@@ -38,7 +38,7 @@ As for the question of how far (north)east the *P. pyralis* population goes, in 
 
 As it turns out, I also hadn't seen any *P. pyralis* in a visit to a promising firefly field site in western Rhode Island in Summer of 2017, so had to wonder: What gives? Does that mean there aren't *P. pyralis* in Rhode Island? It seems a bit odd given that New Haven (having *P. pyralis*) and Rhode Island are pretty close and quite similar in terms of their climate and ecosystems. I formulated a hypothesis to explain this possible discrepancy: 
 
-**The northeastern extend of the *Photinus pyralis* species range is constrained by climactic conditions. Rhode Island and New Haven, while they might seem similar, are climatically different enough by firefly standards that *P. pyralis* can't survive well in RI**
+**The northeastern extent of the *Photinus pyralis* species range is constrained by climactic conditions. Rhode Island and New Haven, while they might seem similar, are climatically different enough by firefly standards that *P. pyralis* can't survive well in RI**
 
 For this blog post, I'll attempt to take a first step to test this hypothesis, by combining the data we have on the *P. pyralis* geographic distribution with an exploratory GIS analyses of a key climactic criteria that I think limits the geographic distribution of *P. pyralis*: the **average minimum temperature over the winter**. 
 
@@ -86,13 +86,13 @@ In the case of the map below, I present just the 30-year normal temperature mini
 ![Map2](/images/post2/Map2.png_resized.jpg)
 *Figure 3. Northeastern United States overlaid with the PRISM 30-year normal minimum average temperature.*
 
->Note: To customize the color gradient show on the map, right click the PRISM min temperature gradient in the Layers sub-panel on the bottom left, select 'Properties', then select Style. Within style, you'll want to set Render Type to 'Singleband Pseudocolor', the min to '2', the max to '10', and the color to 'spectral'. For a shortcut, [here](/post2/PRISM_temp_min_style.qml) is the style file you can load with Style (button, bottom-left) -> Load Style.
+>Note: To customize the color gradient show on the map, right click the PRISM min temperature gradient in the Layers sub-panel on the bottom left, select 'Properties', then select Style. Within style, you'll want to set Render Type to 'Singleband Pseudocolor', the min to '2', the max to '10', and the color to 'spectral'. For a shortcut, [here](/misc_files/post2/PRISM_temp_min_style.qml) is the style file you can load with Style (button, bottom-left) -> Load Style.
 
 ## Part 3: High-resolution firefly sightings
 
 Next, I'll overlay some the *P. pyralis* sightings that have high resolution spatial-temporal metadata onto the map.  In other words, I'll be overlaying the sightings where we know the date of the sighting, as well as the GPS coordinates. 
 
-In practice, producing this GIS dataset took a custom QGIS Python script[^script], that parsed a CSV file exported from the spreadsheet that I keep continually updated with *P. pyralis* sighting data[^spreadsheet], and then produced a new Vector GIS layer with points of the sightings. Afterwards, I had to map the climate data from Part 2 onto these newly created points using the QGIS 'Add raster values to points' feature. If you'd like to skip all that, I've provided the final dataset as a GeoJson file [here](/post2/Ppyralis_sightings_with_temps.geojson).
+In practice, producing this GIS dataset took a custom QGIS Python script[^script], that parsed a CSV file exported from the spreadsheet that I keep continually updated with *P. pyralis* sighting data[^spreadsheet], and then produced a new Vector GIS layer with points of the sightings. Afterwards, I had to map the climate data from Part 2 onto these newly created points using the QGIS 'Add raster values to points' feature. If you'd like to skip all that, I've provided the final dataset as a GeoJson file [here](/misc_files/post2/Ppyralis_sightings_with_temps.geojson).
 
 Importantly these sightings includes the standard "presence" **(P)** records (in green), as well as more specialized "absence" **(A)** records (in red), where an expert fireflyer[^4] made the call that a site/habitat that seemed compatible with *P. pyralis* site didn't in fact have them. 
 
@@ -114,7 +114,7 @@ There are a couple interesting interpretations from this map:
 
 >Note: The #2 heuristic above that '*P. pyralis* populations shouldn't be found in regions below a ~4.0˚C average minimum temperature', doesn't match our greater *P. pyralis* sighting dataset (Figure 1), as a couple of *P. pyralis* records are found in fully <2.0˚C counties in NY. Is the <4.0˚C = no *P. pyralis* heuristic wrong? Or are these records from locally warm areas in otherwise cool mountainous terrain? Or are the records themselves wrong? Only more data will solve this!
 
-> Note: The trick for this figure is the Legend style with the *P. pyralis* sightings. To see how this was done and/or tweak the style, first right click the layer with the *P. pyralis* sightings, go to 'Legend', and then load [this](/post2/Ppyralis_sighting_label_style.qml) style file. The special string in the 'Label with' textbox defines the special 3-line label.
+> Note: The trick for this figure is the Legend style with the *P. pyralis* sightings. To see how this was done and/or tweak the style, first right click the layer with the *P. pyralis* sightings, go to 'Legend', and then load [this](/misc_files/post2/Ppyralis_sighting_label_style.qml) style file. The special string in the 'Label with' textbox defines the special 3-line label.
 
 ## Part 4: Zooming in
 

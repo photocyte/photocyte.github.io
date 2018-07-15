@@ -19,3 +19,5 @@ P.S. I've also decided that I will use this page to keep track of the software t
 * Syncing between Github & local copy: git command line
 * Serving a local copy: "bundle exec jekyll serve" while in local copy directory. *note: while hosting jekyll will automatically update when you save a file. Nice!*
 * The jekyll posts have to be named with dashes '-' not underscores '_'
+* The "_drafts" folder is a great option to store posts in progress, and this jekyll command will serve it properly to a public IP: 
+>bundle exec jekyll serve -H 192.168.0.13 -D --future --unpublished
