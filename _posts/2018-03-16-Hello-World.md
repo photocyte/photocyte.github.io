@@ -18,4 +18,4 @@ P.S. I've also decided that I will use this page to keep track of the software t
 * Markdown editing: [MacDown](http://macdown.uranusjr.com)
 * Syncing between Github & local copy: git command line
 * Serving a local copy: "bundle exec jekyll serve" while in local copy directory. *note: while hosting jekyll will automatically update when you save a file. Nice!*
-
+* The jekyll posts have to be named with dashes '-' not underscores '_'

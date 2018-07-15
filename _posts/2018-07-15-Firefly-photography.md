@@ -5,7 +5,7 @@ description: >
   A personal list of firefly photographers and photographs
 tags: [blog,art]
 ---
-I'm very lucky that there is a group of dedicated photographers who take beautiful photos and videos of wild fireflies.  I've also tried it myself, with less beautiful results, so I really appreciate the technical and artistic skill that goes into these photos. Here is a non-exhaustive of photographers who I've seen some great firefly media from:
+I'm very lucky that there are dedicated photographers who take beautiful photos and videos of wild fireflies.  I've also tried it myself, with less beautiful results, so I really appreciate the technical and artistic skill that goes into these photos. Here is a non-exhaustive of photographers who I've seen some great firefly media from:
 
 * Radim Schrieber: [http://www.radimphoto.com](http://www.radimphoto.com) ; [https://www.facebook.com/RadimPhoto/](https://www.facebook.com/RadimPhoto/)
 * Ken Nagie: [https://www.facebook.com/Ken.Nagie](https://www.facebook.com/Ken.Nagie)
