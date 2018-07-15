@@ -5,9 +5,6 @@ description: >
   Can GIS and climate modeling give insight into the current distribution of Big Dipper fireflies?
 tags: [blog]
 ---
-
-# Introduction
-
 As a wise biologist once said, maps are useful[^1].
 
 With that rationale in mind, in 2017 my collaborator Dr. Sarah Lower and I began our efforts to produce an updated map of the geographic distribution of [*Photinus pyralis*](https://en.wikipedia.org/wiki/Photinus_pyralis) (the Big Dipper Firefly - most commonly seen firefly in the USA). I've reproduced the map we came up with below:
