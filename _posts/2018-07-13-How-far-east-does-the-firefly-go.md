@@ -100,7 +100,7 @@ Importantly these sightings includes the standard "presence" **(P)** records (in
 
 Calling absence records confidently is of course a bit tricky, as it is quite possible to have false negatives. For example, it may just be bad night for fireflies (e.g. too cold, or before or after the few week period when they may be out signaling), or for whatever reason that site is just a bad location for them (too many pesticides, etc.).  But, mapping the limit of the *P. pyralis* geographic range requires that these 'confident' absence records are obtained.
 
-On the map below, each point represents a *P. pyralis* sighting (most likely the signaling adult males). If a P. pyralis presence was recoded, the point is green, if it is an absence, the point is red. Onto those points, I've overlaid labels with the date of sighting, the 30-year normal minimum average temperature (from PRISM, in ˚C), and the 2017 average minimum temperature (also from PRISM, in ˚C):
+Onto each point presenting a *P. pyralis* sighting (or absence), I've overlaid labels with the date of sighting, the 30-year normal minimum average temperature (from PRISM, in ˚C), and the 2017 average minimum temperature (also from PRISM, in ˚C):
 
 ![Map3](/images/post2/Map3.png_resized.jpg)
 *Figure 4. Northeastern United States overlaid with PRISM 30-year normal minimum average temperature, and Photinus pyralis sighting records. Sighting records are labeled with the date the observation was taken, the PRISM 30-year normal minimum temperature for that location, and the average minimum temperature from 2017.*
