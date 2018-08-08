@@ -21,3 +21,4 @@ P.S. I've also decided that I will use this page to keep track of the software t
 * The jekyll posts have to be named with dashes '-' not underscores '_'
 * The "_drafts" folder is a great option to store posts in progress, and this jekyll command will serve it properly to a public IP: 
 >bundle exec jekyll serve -H 192.168.0.13 -D --future --unpublished
+* [ImageMagick](https://imagemagick.org) is a great way to quickly resize & reencode images. I installed it with macports, and used this [bash script] to resize things (misc_files/post1/resize.sh)
