@@ -4,6 +4,7 @@ title: Firefly photography
 description: >
   A personal list of firefly photographers and photographs
 tags: [blog,art]
+comments: true
 ---
 I'm very lucky that there are dedicated photographers who take beautiful photos and videos of wild fireflies.  I've also tried it myself, with less beautiful results, so I really appreciate the technical and artistic skill that goes into these photos. Here is a non-exhaustive of photographers who I've seen some great firefly media from:
 

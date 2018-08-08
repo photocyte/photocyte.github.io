@@ -4,6 +4,7 @@ title: How far east does the firefly go?
 description: >
   Can GIS and climate modeling give insight into the current distribution of Big Dipper fireflies?
 tags: [blog,GIS,ecology]
+comments: true
 ---
 As a wise biologist once said, maps are useful[^1].
 
