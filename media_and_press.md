@@ -8,7 +8,7 @@ October 2018. ホタルの光る能力、起源が明らかに　ゲノムを解
 
 October 2018. ホタルのゲノム解読に成功 〜ホタルの光の遺伝子の進化が明らかに〜. [http://www.nibb.ac.jp/press/2018/10/16.html](http://www.nibb.ac.jp/press/2018/10/16.html) (accessed 2018-10-16)
 
-September 2018. To make better biomedical research tools, a grad student picks apart fireflies’ glow [https://www.statnews.com/2018/09/25/firefly-genome-biomedical-research-tools/] (Accessed 2018-09-25)
+September 2018. To make better biomedical research tools, a grad student picks apart fireflies’ glow [https://www.statnews.com/2018/09/25/firefly-genome-biomedical-research-tools/](https://www.statnews.com/2018/09/25/firefly-genome-biomedical-research-tools/) (Accessed 2018-09-25)
 
 February 2018. Illuminating the Origin and Evolution of Bioluminescence [https://www.pacb.com/blog/illuminating-origin-evolution-bioluminescence/](https://www.pacb.com/blog/illuminating-origin-evolution-bioluminescence/]) (accessed 2018-04-13)
 
