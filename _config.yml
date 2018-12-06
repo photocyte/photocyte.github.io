@@ -48,7 +48,7 @@ author:
   email:               tfallon@mit.edu
   # Used by `jekyll-seo-tag`:
   twitter:             photocyte
-  picture:             https://avatars3.githubusercontent.com/u/12517705?s=400&u=b86c907899da6f1ef01c1898a8153cbc46f24c75&v=4
+  picture:             images/avatar.png
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             Timothy R. Fallon © 2018. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
