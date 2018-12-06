@@ -2,7 +2,7 @@
 layout: page
 title: Research
 menu: true
-order: 3
+order: 2
 ---
 
 ## Biosynthesis of natural products

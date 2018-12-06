@@ -4,7 +4,7 @@ title: Publications
 description: >
  **Selected publications**
 menu: true
-order: 2
+order: 1
 ---
 
 † = co-first authors ; * = mentored undergraduate authors
