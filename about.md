@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: About the author
 menu: true
 order: 3
 cover: true
