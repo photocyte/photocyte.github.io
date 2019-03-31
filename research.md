@@ -1,10 +1,7 @@
 ---
 layout: page
 title: Research
-menu: true
-order: 2
 ---
-
 ## Biosynthesis of natural products
 Evolution by natural selection has produced a fasinating repotoire of natural products with diverse structures and functions, many possessing significant commercial value. I am interested in the biosynthesis of natural products to understand the logic of how biosynthetic pathways are constructed, as well as to elucidate the biosynthetic enzymes of molecules that are valuable to society. I am particularly interested in applying 'omics', analytical chemistry, and computational analyses to the elucidation of molecules and pathways from wild and non-model species that have interesting biochemistry, but limited capability for laboratory manipulation & the obtaining of large quantities of tissue.
 

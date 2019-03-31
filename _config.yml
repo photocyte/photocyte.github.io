@@ -35,7 +35,7 @@ tagline:               >
 # Open `_config.yml` to edit this text.
 
 # A list of keywords for your blog
-keywords:              [biochemistry,natural products]
+keywords:              [biochemistry,natural products,bioinformatics]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -50,23 +50,38 @@ author:
   twitter:             photocyte
   picture:             /images/avatar.png
 
-# This text will appear in a `<small>` tag in the footer of every page.
-copyright:             Timothy R. Fallon © 2018. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+# Add links to the sidebar.
+menu:
+  - title:             Publications
+    url:               /publications/
+  - title:             Research
+    url:               /research/
+  - title:             About
+    url:               /about/
+  - title:             Blog
+    url:               /posts/
+  - title:             Media & Press
+    url:               /media_and_press/
+  - title:             FireflyBase.org
+    url:               http://www.fireflybase.org
 
 # Add links to the footer.
-# Typically you'll want to link to your impress, cookies or privacy policy, etc.
+# Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 # legal:
 #   - title:             Impress
-#     href:              /impress/
+#     url:               /impress/
 #   - title:             Cookies Policy
-#     href:              /cookies-policy/
+#     url:               /cookies-policy/
+
+# This text will appear in a `<small>` tag in the footer of every page.
+copyright:             Timothy R. Fallon © 2019. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              5
-paginate_path:         /page-:num/
+paginate_path:         /blog/page-:num/
 
 
 # Customizaton
@@ -136,7 +151,7 @@ disqus:                 photocyte-github-io
 
 hydejack:
   # Configure the order of complementary content on blog posts
-  post_addons:         [about, newsletter, related]
+  post_addons:         [about, newsletter, related, random]
 
   # Configure the order of complementary content on project pages
   project_addons:      [about, newsletter, other]
@@ -145,7 +160,7 @@ hydejack:
   no_google_fonts:     false
 
   # Set to `true` if you don't want to show an icon indicating external links
-  no_mark_external:    false
+  no_mark_external:    true
 
   # Set to `true` if third party plugins fail to work with dynamically loaded pages
   no_push_state:       false
@@ -157,8 +172,12 @@ hydejack:
   no_img:              false
 
   # Set to `true` if you do not want parts of the css inlined in <head/>
-  # This *may* be benefitial when serving the site over HTTP/2.
+  # This will increase site build speed dramatically!
   no_inline_css:       false
+
+  # Set to `true` if you don't intend on changing the accent color on a per-page basis.
+  # This will increase site build speed!
+  no_page_style:       false
 
   # Code blocks and tables "break" the layout by spanning the full available width.
   # Set this to true if you want them to be the same width as other content.
@@ -202,6 +221,7 @@ hydejack:
   offline:
     enabled:           false
     cache_version:     1
+
 
 # Collections
 # ========================================================================================
