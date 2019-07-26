@@ -30,7 +30,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  biologist, biochemist, genomics enthusiast, natural products disciple, PhD student @ MIT
+  biologist, biochemist, genomics enthusiast, natural products disciple, postdoc @ SIO/UCSD
 # A Jekyll theme with JavaScript powers.
 # Open `_config.yml` to edit this text.
 
@@ -45,7 +45,7 @@ logo:                  https://avatars3.githubusercontent.com/u/12517705?s=400&u
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                Timothy Fallon
-  email:               tfallon@mit.edu
+  email:               tfallon@ucsd.edu
   # Used by `jekyll-seo-tag`:
   twitter:             photocyte
   picture:             /images/avatar.png
