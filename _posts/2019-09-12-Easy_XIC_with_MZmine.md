@@ -7,7 +7,7 @@ tags: [blog,lc/ms]
 comments: true
 ---
 
-Here is a step-by-step tutorial (with pictures!) for converting low-resolution (e.g. ion trap, quadrupole) LC/MS data into the .mzML.gz file format ([gzipped](https://en.wikipedia.org/wiki/Gzip), [mzML](https://en.wikipedia.org/wiki/Mass_spectrometry_data_format#mzML)), followed by data analysis & figure generation in the MZmine2 LC/MS data analysis software. 
+Here is a step-by-step tutorial (with pictures!) for converting low-resolution (e.g. ion trap, quadrupole) LC/MS data into the .mzML.gz ([gzipped](https://en.wikipedia.org/wiki/Gzip), [mzML](https://en.wikipedia.org/wiki/Mass_spectrometry_data_format#mzML)) file format, followed by data analysis & figure generation using the MZmine2 LC/MS data analysis software. 
 
 [MZmine2](http://mzmine.github.io/) is free, open source software that can be installed on Mac/Windows/Linux, and can directly read the .mzML.gz (or .mzML) file format for data processing and figure generation.   I find it more convenient for LC/MS data analysis than the vendor software, as I can do everything on my own laptop, rather than having to use the instrument computer. MZmine2 is also very well suited for analysis of high-resolution LC/MS data (e.g. QToF, Orbitrap) 
 
