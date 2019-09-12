@@ -15,7 +15,7 @@ Note: If your instrument produces LC/UV data alongside the LC/MS data, it probab
 
 ---
 
-**1.** Install and open MS Convert, MS Convert with is a part of the [ProteoWizard](http://proteowizard.sourceforge.net) software package. You probably want to install it on a Windows computer, but there is also a experimental Docker image if you want to fiddle around with getting it to run well on Linux or Mac.
+**1.** Install and open MS Convert. MS Convert with is a part of the [ProteoWizard](http://proteowizard.sourceforge.net) software package. You probably want to install it on a Windows computer, but there is also a experimental Docker image if you want to fiddle around with getting it to run well on Linux or Mac.
 
 ![1.png](/images/MZmine_XIC_post/1.png)
 
