@@ -33,7 +33,6 @@ Note: If your instrument produces LC/UV data alongside the LC/MS data, it probab
 
 ---
 **4.** Download, install, and open MZmine2.  See the [MZmine2 website](http://mzmine.github.io) for more details.
-In MZMine2, import your previously generated .mzML.gz files, using the Raw data methods (Top menu)->Raw data import method (dropdown menu).
 
 **5.** In MZMine2, import your previously generated .mzML.gz files, using the Raw data methods (Top menu)->Raw data import method (dropdown menu).
 
