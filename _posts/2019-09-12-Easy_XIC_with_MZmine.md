@@ -70,6 +70,12 @@ Note: If your instrument produces LC/UV data alongside the LC/MS data, it probab
 
 ---
 
-**11.** Hopefully that gets you started with making simple figures using MZmine2.  But a quick hint: The window management of MZmine2 is a little crazy.  After doing a long analysis, you might find that you have 20+ windows open, and closing them all is kind of a pain.  The Windows (top menu)->Close all windows (Dropdown menu) operation, is a great trick, which closes everything except for the base project window, so you are left with all your raw and processed data, without any extraneous analysis windows that may be clogging your screen up.
+**11.** You can also export the intensity & retention time value-pairs of the chromatogram data into comma-separated-values “.csv” format, suitable for import into generic spreadsheet and plotting software (e.g. Microsoft Excel).  To do that, right-click (or control-click on MacOS) the whitespace of the XIC viewing window, and select the “Export chromatogram” option.
 
 ![11.png](/images/MZmine_XIC_post/11.png)
+
+---
+
+**12.** Hopefully that gets you started with making simple figures using MZmine2.  But a quick hint: The window management of MZmine2 is a little crazy.  After doing a long analysis, you might find that you have 20+ windows open, and closing them all is kind of a pain.  The Windows (top menu)->Close all windows (Dropdown menu) operation, is a great trick, which closes everything except for the base project window, so you are left with all your raw and processed data, without any extraneous analysis windows that may be clogging your screen up.
+
+![12.png](/images/MZmine_XIC_post/12.png)
