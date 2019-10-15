@@ -9,6 +9,8 @@ order: 1
 
 † = co-first authors ; * = mentored undergraduate authors
 
+Pluskal T., Torrens-Spence M.P., **Fallon T.R.**, Abreu A.D., Shi C.H., Weng J.-K. (2019). The biosynthetic origin of psychoactive kavalactones in kava. [Nat Plants 5:867–878](https://www.nature.com/articles/s41477-019-0474-0).
+
 **Fallon, T.R**. †, Lower, S.E. †, Chang, C.-H., Bessho-Uehara, M., Martin, G.J., Bewick, A.J., Behringer, M., Debat, H.J., Wong, I., Day, J.C., Suvorov, A., Silva, C.J., Hall D.W., Schmitz R.J., Nelson D.R., Lewis, S., Shigenobu, S., Bybee S.M., Larracuente, A.M., Oba, Y., Weng, J.-K. (2017). Firefly genomes illuminate the origin and evolution of bioluminescence. [eLife 2018;7:e36495](https://elifesciences.org/articles/36495)
 
 **Fallon, T.R.**, Li, F.-S., Vicent, M.A.*, and Weng, J.-K. (2016). Sulfoluciferin is Biosynthesized by a Specialized Luciferin Sulfotransferase in Fireflies. [Biochemistry 55, 3341–3344.](https://pubs.acs.org/doi/abs/10.1021/acs.biochem.6b00402)
