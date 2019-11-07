@@ -1,5 +1,49 @@
 # CHANGELOG
 
+## v8.5.2
+August 31 2019
+{:.heading.post-date}
+
+* Fixed breaking builds due to name collision when upgrading to 8.5
+  This is caused when using both `_plugins/jekyll-replace-imgs` and the new `jekyll-replace-img` ruby gem.
+  I recommend deleting `_plugins/jekyll-replace-imgs` when using the `jekyll-replace-img` gem.
+  Note that this is an optional plugin.
+* Fixed `nomodule` script loading for Safari 10.1
+* Fixed [#176](https://github.com/hydecorp/hydejack/issues/176)
+
+## v8.5.1
+Aug 1 2019
+{:.heading.post-date}
+
+* Fixed minification bug
+
+## v8.5.0
+Aug 1 2019
+{:.heading.post-date}
+
+### Changed
+* [PRO] The theme now matches the operating system's dark mode.
+* Scrolling down on a page with an open drawer will now close the drawer
+* Reloading a cover page after the drawer has been closed will now open the page with the drawer closed
+* Removed JavaScript-based web font swapping in favor of using `font-display: swap`
+* Darkened font color in dark mode to reduce contrast
+* Updated KaTeX to the latest version
+* Increased the durations of various animations slightly
+* Now using [`jekyll-replace-img`](https://github.com/qwtel/jekyll-replace-img) instead of custom code in `_plugins` folder
+* Added a separate, smaller JavaScript bundle for modern browsers
+
+### Added
+* Added support for figure captions on code blocks
+* Added `keybase` to social media icons
+* [PRO] There's now a forward button when using the theme as a PWA
+
+### Fixed
+* Fixed print layout when dark mode is enabled
+* Using `CSSTransformValue` correctly
+* Fixed a minor style bug for dates
+* Fixed a bug where light mode would flash when loading a page in dark mode
+* Minimal support for IE11
+
 ## v8.4.0
 Mar 9 2019
 {:.heading.post-date}
@@ -235,11 +279,11 @@ Dec 18 2017
 
 
 ### Fixed
-* Fixed a bug that caused `<sup>` tags to render as regular text ([#52](https://github.com/qwtel/hydejack/pull/52))
-* Fixed a bug that caused Disqus to load the same thread on all pages ([#53](https://github.com/qwtel/hydejack/pull/52))
+* Fixed a bug that caused `<sup>` tags to render as regular text ([#52](https://github.com/hydecorp/hydejack/pull/52))
+* Fixed a bug that caused Disqus to load the same thread on all pages ([#53](https://github.com/hydecorp/hydejack/pull/52))
 * Fixed a bug that prevented Disqus comments to be loaded on sites that didn't cause scroll events
 * Fixed a bug that caused Disqus to be loaded over HTTP instead of HTTPS.
-* Fixed a bug that caused an extra space in URLs ([#55](https://github.com/qwtel/hydejack/pull/55)).
+* Fixed a bug that caused an extra space in URLs ([#55](https://github.com/hydecorp/hydejack/pull/55)).
 * Comments no longer show up in the print version of the page.
 
 ### Other
@@ -371,7 +415,7 @@ Nov 2 2017
 * Upgraded `jekyll-relative-links` to v5.0.1
 
 ### Fixes
-* `font` and `font_heading` are now properly set when using the `no_inline_css` option [#47](https://github.com/qwtel/hydejack/issues/47).
+* `font` and `font_heading` are now properly set when using the `no_inline_css` option [#47](https://github.com/hydecorp/hydejack/issues/47).
 * Fixed default values for `image` and `logo` that were referring to non-existing images.
 * Added missing JS dev dependencies.
 
@@ -384,7 +428,7 @@ Oct 27 2017
 {:.heading.post-date}
 
 ### Fixes
-* Removed readme files from `assets` that would show up as pages when building on GitHub Pages [#42](https://github.com/qwtel/hydejack/issues/42).
+* Removed readme files from `assets` that would show up as pages when building on GitHub Pages [#42](https://github.com/hydecorp/hydejack/issues/42).
 * Disabled push state on Firefox for iOS
 * Changed some default settings in `_config.yml`
 
@@ -401,8 +445,8 @@ Oct 24 2017
 ### License Change
 The *free version* of Hydejack is now [GPL-3.0] licensed, which is a more restrictive license than MIT (but still *Open Source*).
 This was necessary because the two major components that make up Hydejack,
-[hy-push-state](https://qwtel.com/hy-push-state/){:.external} and
-[hy-drawer](https://qwtel.com/hy-drawer/){:.external},
+[hy-push-state](https://hydecorp.github.io/hy-push-state/){:.external} and
+[hy-drawer](https://hydecorp.github.io/hy-drawer/){:.external},
 are now GPL licensed in turn.
 
 How will this affect you?
@@ -752,9 +796,9 @@ This maintenance release includes various quality-of-life improvements when usin
   ~~~yml
   author:
     social:
-      github: https://github.com/qwtel/hydejack
+      github: https://github.com/hydecorp/hydejack
       npm: https://www.npmjs.com/package/hydejack
-      download: https://github.com/qwtel/hydejack/archive/v6.5.0.zip
+      download: https://github.com/hydecorp/hydejack/archive/v6.5.0.zip
 
   data_social:
     github:

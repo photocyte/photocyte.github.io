@@ -1,5 +1,4 @@
-// # src / flip / title.js
-// Copyright (c) 2018 Florian Klampfer <https://qwtel.com/>
+// Copyright (c) 2019 Florian Klampfer <https://qwtel.com/>
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -14,8 +13,6 @@
 // You should have received a copy of the GNU General Public License
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-import "core-js/fn/function/bind";
-
 import { of, zip } from "rxjs";
 import { tap, finalize, filter, map, switchMap } from "rxjs/operators";
 
@@ -23,7 +20,12 @@ import { animate, empty } from "../common";
 
 const TITLE_SELECTOR = ".page-title, .post-title";
 
-export function setupFLIPTitle(start$, ready$, fadeIn$, { animationMain, settings }) {
+export function setupFLIPTitle(
+  start$,
+  ready$,
+  fadeIn$,
+  { animationMain, settings }
+) {
   if (!animationMain) return start$;
 
   const flip$ = start$.pipe(
@@ -59,16 +61,16 @@ export function setupFLIPTitle(start$, ready$, fadeIn$, { animationMain, setting
 
       const transform = [
         {
-          transform: `translate3d(${invertX}px, ${invertY}px, 0) scale(${invertScale})`,
+          transform: `translate3d(${invertX}px, ${invertY}px, 0) scale(${invertScale})`
         },
-        { transform: "translate3d(0, 0, 0) scale(1)" },
+        { transform: "translate3d(0, 0, 0) scale(1)" }
       ];
 
       return animate(title, transform, settings).pipe(
         tap({
           complete() {
             animationMain.style.position = "absolute";
-          },
+          }
         })
       );
     })

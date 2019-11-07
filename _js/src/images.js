@@ -1,5 +1,4 @@
-// # src / images.js
-// Copyright (c) 2018 Florian Klampfer <https://qwtel.com/>
+// Copyright (c) 2019 Florian Klampfer <https://qwtel.com/>
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -14,9 +13,10 @@
 // You should have received a copy of the GNU General Public License
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-import "core-js/fn/array/for-each";
-
-import { HyImageElement, WEBCOMPONENT_FEATURE_TESTS } from "hy-img/src/webcomponent";
+import {
+  HyImageElement,
+  WEBCOMPONENT_FEATURE_TESTS
+} from "hy-img/src/webcomponent";
 
 import { hasFeatures } from "./common";
 
