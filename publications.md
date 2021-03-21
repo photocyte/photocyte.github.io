@@ -9,6 +9,8 @@ order: 1
 
 † = co-first authors ; * = mentored undergraduate authors
 
+Chekan, J.R., **Fallon, T.R.**, and Moore, B.S. (2020). Biosynthesis of marine toxins. [Current Opinion in Chemical Biology 59, 119–129.](https://www.sciencedirect.com/science/article/pii/S1367593120300922)
+
 Pluskal T., Torrens-Spence M.P., **Fallon T.R.**, Abreu A.D., Shi C.H., Weng J.-K. (2019). The biosynthetic origin of psychoactive kavalactones in kava. [Nat Plants 5:867–878](https://www.nature.com/articles/s41477-019-0474-0).
 
 **Fallon, T.R**. †, Lower, S.E. †, Chang, C.-H., Bessho-Uehara, M., Martin, G.J., Bewick, A.J., Behringer, M., Debat, H.J., Wong, I., Day, J.C., Suvorov, A., Silva, C.J., Hall D.W., Schmitz R.J., Nelson D.R., Lewis, S., Shigenobu, S., Bybee S.M., Larracuente, A.M., Oba, Y., Weng, J.-K. (2018). Firefly genomes illuminate the origin and evolution of bioluminescence. [eLife 2018;7:e36495](https://elifesciences.org/articles/36495)
