@@ -1,6 +1,8 @@
 # Config
 # ========================================================================================
 
+## Note: in 2021-10, I (TRF) tried to update to Hydejack v9.0 . It didn't go well something about the Gemfile getting deleted & Hydejack seemingly getting refactored
+
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
@@ -74,7 +76,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             Timothy R. Fallon © 2019. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+copyright:             Timothy R. Fallon © 2021. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
