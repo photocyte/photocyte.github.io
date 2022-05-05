@@ -6,14 +6,13 @@ description: >
 menu: true
 order: 1
 ---
-
-† = co-first authors ; * = mentored undergraduate authors
-
 <!---
 It is eLife style formatting, with italics of the journal, and linking out to the paper via DOI. Also double check the authors are named consistently & with the final 'and'.
 -->
 
 **Comprehensive [Google Scholar publications and citations](https://scholar.google.com/citations?hl=en&user=CEPlauQAAAAJ&view_op=list_works&sortby=pubdate).**
+
+† = co-first authors ; * = mentored undergraduate authors
 
 Kersten RD, Mydy LS, **Fallon TR**, de Waal F, Shafiq K, Wotring JW, Sexton JZ, and Weng J.-K. 2022. Gene-Guided Discovery and Ribosomal Biosynthesis of Moroidin Peptides. *JACS* 144:7686–7692. [10.1021/ jacs.2c00014](https://pubs.acs.org/doi/full/10.1021/jacs.2c00014)
 
