@@ -8,19 +8,25 @@ order: 1
 ---
 <!---
 It is eLife style formatting, with italics of the journal, and linking out to the paper via DOI. Also double check the authors are named consistently & with the final 'and'.
+
+Dates should be paranthetical i.e. (2022)
+
+Journal name is italicized. 
 -->
 
 **Comprehensive [Google Scholar publications and citations](https://scholar.google.com/citations?hl=en&user=CEPlauQAAAAJ&view_op=list_works&sortby=pubdate).**
 
-† = co-first authors ; * = mentored undergraduate authors
+† = authors with equal-contribution ; * = mentored undergraduate students
 
-Kersten RD, Mydy LS, **Fallon TR**, de Waal F, Shafiq K, Wotring JW, Sexton JZ, and Weng J.-K. 2022. Gene-Guided Discovery and Ribosomal Biosynthesis of Moroidin Peptides. *JACS* 144:7686–7692. [10.1021/ jacs.2c00014](https://pubs.acs.org/doi/full/10.1021/jacs.2c00014)
+Lima S.T., **Fallon T.R.** †, Cordoza J.L. †, Chekan J.R., Delbaje E, Hopiavuori A.R., Alvarenga D.O., Wood S.M., Luhavaya H, Baumgartner J.T., Dörr F.A., Etchegaray A, Pinto E, McKinnie S.M.K., Fiore M.F., and Moore B.S. (2022). Biosynthesis of Guanitoxin Enables Global Environmental Detection in Freshwater Cyanobacteria. *JACS* [10.1021/jacs.2c01424](https://pubs.acs.org/doi/10.1021/jacs.2c01424)
+
+Kersten R.D., Mydy LS, **Fallon T.R.**, de Waal F, Shafiq K, Wotring JW, Sexton JZ, and Weng J.-K. (2022). Gene-Guided Discovery and Ribosomal Biosynthesis of Moroidin Peptides. *JACS* 144:7686–7692. [10.1021/ jacs.2c00014](https://pubs.acs.org/doi/full/10.1021/jacs.2c00014)
 
 Chekan, J.R., **Fallon, T.R.**, and Moore, B.S. (2020). Biosynthesis of marine toxins. *Current Opinion in Chemical Biology* 59, 119–129. [10.1016/j.cbpa.2020.06.009](https://www.sciencedirect.com/science/article/pii/S1367593120300922)
 
-Pluskal T, Korf A, Smirnov A, Schmid R, **Fallon TR**, Du X, and Weng J.-K. 2020. CHAPTER 7:Metabolomics Data Analysis Using MZmineProcessing Metabolomics and Proteomics Data with Open Software. pp. 232–254. [10.1039/9781788019880-00232](https://pubs.rsc.org/en/content/chapter/bk9781788017213-00232/978-1-78801-721-3)
+Pluskal T, Korf A, Smirnov A, Schmid R, **Fallon T.R.**, Du X, and Weng J.-K. (2020). CHAPTER 7: Metabolomics Data Analysis Using MZmine Processing Metabolomics and Proteomics Data with Open Software. pp. 232–254. [10.1039/9781788019880-00232](https://pubs.rsc.org/en/content/chapter/bk9781788017213-00232/978-1-78801-721-3)
 
-Goodheart JA, Minsky G, Brynjegard-Bialik MN, Drummond MS, Munoz JD, **Fallon TR**, Schultz DT, Weng J-K, Torres E, and Oakley TH. 2020. Laboratory culture of the California Sea Firefly Vargula tsujii (Ostracoda: Cypridinidae): Developing a model system for the evolution of marine bioluminescence. *Scientific Reports* 10:10443. [10.1038/s41598-020-67209-w](https://www.nature.com/articles/s41598-020-67209-w)
+Goodheart JA, Minsky G, Brynjegard-Bialik MN, Drummond MS, Munoz JD, **Fallon T.R.**, Schultz DT, Weng J-K, Torres E, and Oakley TH. (2020). Laboratory culture of the California Sea Firefly Vargula tsujii (Ostracoda: Cypridinidae): Developing a model system for the evolution of marine bioluminescence. *Scientific Reports* 10:10443. [10.1038/s41598-020-67209-w](https://www.nature.com/articles/s41598-020-67209-w)
 
 Pluskal T., Torrens-Spence M.P., **Fallon T.R.**, Abreu A.D., Shi C.H., and Weng J.-K. (2019). The biosynthetic origin of psychoactive kavalactones in kava. *Nature Plants* 5:867–878. [10.1038/s41477-019-0474-0](https://www.nature.com/articles/s41477-019-0474-0). 
 
