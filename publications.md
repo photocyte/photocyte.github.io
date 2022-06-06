@@ -18,7 +18,7 @@ Journal name is italicized.
 
 † = authors with equal-contribution ; * = mentored undergraduate students
 
-Lima S.T., **Fallon T.R.** †, Cordoza J.L. †, Chekan J.R., Delbaje E, Hopiavuori A.R., Alvarenga D.O., Wood S.M., Luhavaya H, Baumgartner J.T., Dörr F.A., Etchegaray A, Pinto E, McKinnie S.M.K., Fiore M.F., and Moore B.S. (2022). Biosynthesis of Guanitoxin Enables Global Environmental Detection in Freshwater Cyanobacteria. *JACS* [10.1021/jacs.2c01424](https://pubs.acs.org/doi/10.1021/jacs.2c01424)
+Lima S.T., **Fallon T.R.** †, Cordoza J.L. †, Chekan J.R., Delbaje E, Hopiavuori A.R., Alvarenga D.O., Wood S.M., Luhavaya H, Baumgartner J.T., Dörr F.A., Etchegaray A, Pinto E, McKinnie S.M.K., Fiore M.F., and Moore B.S. (2022). Biosynthesis of Guanitoxin Enables Global Environmental Detection in Freshwater Cyanobacteria. *JACS*  144:9372–9379. [10.1021/jacs.2c01424](https://pubs.acs.org/doi/10.1021/jacs.2c01424)
 
 Kersten R.D., Mydy LS, **Fallon T.R.**, de Waal F, Shafiq K, Wotring JW, Sexton JZ, and Weng J.-K. (2022). Gene-Guided Discovery and Ribosomal Biosynthesis of Moroidin Peptides. *JACS* 144:7686–7692. [10.1021/ jacs.2c00014](https://pubs.acs.org/doi/full/10.1021/jacs.2c00014)
 
