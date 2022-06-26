@@ -18,13 +18,19 @@ That is why I was so happy today to find a reproducible bug in OneNote on MacOS.
 How to reproduce issue from scratch:
 
 1) This is on MacOS 12.4 Monterey, OneNote Version 16.62 (22061100) - Desktop app
-2) You have to make a .html file with a png image encoded as a base64 encoded HTML5 data URI. The Zotero webpage snapshot functionality can do this, and the SingleFile addon for Chrome can do this. HTML files/encoded images made from either Zotero or SingleFile will crash OneNote. Note: This bug does not happen if a jpg is substituted for a png.
+2) You have to make a .html file with a png image encoded as a base64 encoded HTML5 data URI. 
+- The Zotero webpage snapshot functionality can do this, and the SingleFile addon for Chrome can do this. 
+- HTML files/encoded images made from either Zotero or SingleFile will crash OneNote. 
+- Note: This bug does not happen if a jpg is substituted for a png.
 3) In MacOS Safari (Version 15.5 17613.2.7.1.8), right click the data URI encoded image and select the "Copy paste" from the dropdown menu. Note: This bug does not happen if Safari is substituted for Google Chrome (Version 102.0.5005.115)
 3) In OneNote, make a new table
 4) Add a row to the table, 
 5) In the newly made row, type "file://" , using shift & the left arrow keys after typing, select the file:// text. 
 6) Hit Command-K to open the link editing dialog
-7) Click the address dialog box, and paste the image. It should show up at the base64 encoded data URI. In the case of a Google Chrome copied image, nothing is added to the text field. In the case of a copied JPG, in both Google Chrome & Safari, an http URL is pasted rather than an encoded data URI.
+7) Click the address dialog box, and paste the image. 
+- It should show up at the base64 encoded data URI. 
+- In the case of a Google Chrome copied image, nothing is added to the text field. 
+- In the case of a copied JPG, in both Google Chrome & Safari, an http URL is pasted rather than an encoded data URI.
 8) Hit command-Z to undo. OneNote immediately crashes.
 ```
 
