@@ -6,6 +6,8 @@ description: >
 tags: [blog,tech,software]
 comments: true
 ---
+![A meme, with Dark Vader saying "When I left you, I was the learner, now I am the master!](/images/onenote_bug/onenote_meme.jpg)
+
 I am an extremely heavy user of [Microsoft OneMote](https://en.wikipedia.org/wiki/Microsoft_OneNote), both on MacOS and iOS. I've been using it as my electronic lab notebook (ELN), for over 10 years at this point, and I've learned a couple tricks.
 
 One of the nicest things about OneNote, is that it has never lost my scientific content - despite my using it on a daily basis, generally abusing it & force quitting it if it hangs, for over a decade.
@@ -13,8 +15,6 @@ One of the nicest things about OneNote, is that it has never lost my scientific 
 In short, OneNote is properly developed "industrial grade" software, whose stability & development cycle & longterm support I have been quite happy with.
 
 That is why I was so happy today to find a reproducible bug in OneNote on MacOS, where I could make it crash on command (it still didn't lose any of my data though!)
-
-![A meme, with Dark Vader saying "When I left you, I was the learner, now I am the master!](/images/onenote_bug/onenote_meme.jpg)
 
 Details below:
 
