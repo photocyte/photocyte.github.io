@@ -8,7 +8,7 @@ comments: true
 ---
 I am an extremely heavy user of [Microsoft OneMote](https://en.wikipedia.org/wiki/Microsoft_OneNote), both on MacOS and iOS. I've been using it as my electronic lab notebook (ELN), for over 10 years at this point, and I've learned a couple tricks.
 
-One of the nicest things about OneNote, is that it has never lost my scientific content - despite my using it on a daily basis, generally abusing it & force quitting it if it hangs, for over a decade. (It has semi-lost some of my personal content, where I was posting tons of very large photos into a single page, and the syncing got permanently broken between my phone and laptop - technically the content wasn't lost, but it was too much work to carefully copy & resync my phone and laptop OneNote copies, & I had to throw away the photos on my phones version). 
+One of the nicest things about OneNote, is that it has never lost my scientific content - despite my using it on a daily basis, generally abusing it & force quitting it if it hangs, for over a decade.
 
 In short, OneNote is properly developed "industrial grade" software, whose stability & development cycle & longterm support I have been quite happy with.
 
