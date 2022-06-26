@@ -33,7 +33,7 @@ How to reproduce issue from scratch:
 5) In the newly made row, type "file://" , using shift & the left arrow keys after typing, select the file:// text. 
 6) Hit Command-K to open the link editing dialog
 7) Click the address dialog box, and paste the image. 
-- It should show up at the base64 encoded data URI. 
+- It should show up as the base64 encoded data URI. 
 - In the case of a Google Chrome copied image, nothing is added to the text field. 
 - In the case of a copied JPG, in both Google Chrome & Safari, an http URL is pasted rather than an encoded data URI.
 8) Hit command-Z to undo. OneNote immediately crashes.
