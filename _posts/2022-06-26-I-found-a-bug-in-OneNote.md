@@ -10,9 +10,9 @@ I am an extremely heavy user of [Microsoft OneMote](https://en.wikipedia.org/wik
 
 One of the nicest things about OneNote, is that it has never lost my scientific content - despite my using it on a daily basis, generally abusing it & force quitting it if it hangs, for over a decade. (It has semi-lost some of my personal content, where I was posting tons of very large photos into a single page, and the syncing got permanently broken between my phone and laptop - technically the content wasn't lost, but it was too much work to carefully copy & resync my phone and laptop OneNote copies, & I had to throw away the photos on my phones version). 
 
-In short, OneNote is properly developed "industrial grade" software, whose stability & development cycle I have been quite happy with.
+In short, OneNote is properly developed "industrial grade" software, whose stability & development cycle & longterm support I have been quite happy with.
 
-That is why I was so happy today to find a reproducible bug in OneNote on MacOS, where I could make OneNote crash on command (it still didn't lose any of my data though!)
+That is why I was so happy today to find a reproducible bug in OneNote on MacOS, where I could make it crash on command (it still didn't lose any of my data though!)
 
 ![A meme, with Dark Vader saying "When I left you, I was the learner, now I am the master!](/images/onenote_bug/onenote_meme.jpg)
 
