@@ -12,7 +12,11 @@ One of the nicest things about OneNote, is that it has never lost my scientific 
 
 In short, OneNote is properly developed "industrial grade" software, whose stability & development cycle I have been quite happy with.
 
-That is why I was so happy today to find a reproducible bug in OneNote on MacOS. I've submitted this to Microsoft, but detail it below:
+That is why I was so happy today to find a reproducible bug in OneNote on MacOS, where I could make OneNote crash on command (it still didn't lose any of my data though!)
+
+![A meme, with Dark Vader saying "When I left you, I was the learner, now I am the master!](/images/onenote_bug/onenote_meme.jpg)
+
+Details below:
 
 ```
 How to reproduce issue from scratch:
