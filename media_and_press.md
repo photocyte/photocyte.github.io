@@ -7,6 +7,9 @@ order: 13
 August 2022. SPARKLING WATERS - Tiny Caribbean crustaceans and their bioluminescent mating displays are shining new light on evolution. 
 [https://www.science.org/content/article/sea-fireflies-caribbean-shining-new-light-evolution](https://www.science.org/content/article/sea-fireflies-caribbean-shining-new-light-evolution) (accessed 2022-09-01)
 
+July 2019. Unusual Labmates: Raising Japanese Aquatic Fireflies @WhiteheadInst. Twitter. [**Video**]
+[https://twitter.com/WhiteheadInst/status/1147158191840485377](https://twitter.com/WhiteheadInst/status/1147158191840485377) (accessed 2022-10-01)
+
 October 2018. ホタルの光る能力、起源が明らかに　ゲノムを解読. [The origin of firefly's ability to glow revealed - Genome deciphered.] 
 [https://www.asahi.com/articles/ASL9V4JM5L9VOBJB005.html?iref=pc_ss_date](https://www.asahi.com/articles/ASL9V4JM5L9VOBJB005.html?iref=pc_ss_date) (accessed 2018-10-17)
 
