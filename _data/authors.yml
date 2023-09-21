@@ -21,8 +21,10 @@ author1:
    * Curriculum vitae (CV): [Timothy_R_Fallon_CV_PW-is-Spring2022.pdf](/CVs/Timothy_R_Fallon_CV_PW-is-Spring2022.pdf) (CV password protected with **Spring2022** to prevent webcrawler email spam)
    * ORCID: [0000-0002-3048-7679](https://orcid.org/0000-0002-3048-7679)
    * Google Scholar [publications and citations](https://scholar.google.com/citations?hl=en&user=CEPlauQAAAAJ&view_op=list_works&sortby=pubdate)   
+   * LinkedIn - <a rel="me" href="https://www.linkedin.com/in/timfallonphd/">timfallonphd</a>
    * Mastodon - <a rel="me" href="https://genomic.social/@photocyte">@photocyte@genomic.social</a>
-   * GitLab - <a href="https://gitlab.com/photocyte">photocyte</a>
+   * GitHub - <a rel="me" href="https://github.com/photocyte">photocyte</a>
+   * GitLab - <a rel="me" href="https://gitlab.com/photocyte">photocyte</a>
 
    ### Miscellaneous endevours
    * In 2017 We launched the datasite for the firefly genome project: <http://www.fireflybase.org>
@@ -30,6 +32,7 @@ author1:
    * In 2014 I took the "How to Make Almost Anything" class at the MIT media lab. You can see my exploits here: <http://fab.cba.mit.edu/classes/863.14/people/tim_fallon/index.html>
 
    ### Collaborators
+   - Wisecaver lab (Purdue) <https://www.wisecaverlab.com>
    - Moore Lab (SIO/UCSD) <http://scrippsscholars.ucsd.edu/bsmoore>
    - Weng Lab (MIT): <http://wenglab.wi.mit.edu/>
    - Lewis Lab (Tufts): <https://ase.tufts.edu/biology/faculty/lewis/>
@@ -52,7 +55,7 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         photocyte
+    # twitter:         photocyte
     github:          photocyte
     # email:           mailto:<mail@domain.tld>
     # rss:             https://<url>/feed.xml
