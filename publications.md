@@ -20,6 +20,8 @@ Journal name is italicized.
 
 **Fallon T.R.** \* §, Shende V.V. \*, Wierzbicki I.H., Pendleton A.L., Watervoort N.F., Auber R.P., Gonzalez D.J., Wisecaver J.H., and Moore B.S. § (2024). Giant polyketide synthase enzymes in the biosynthesis of giant marine polyether toxins. *Science* 385:671–678. doi:[10.1126/science.ado3290](https://www.science.org/doi/10.1126/science.ado3290)
 
+Wisecaver J.H., Auber R.P., Pendleton A.L., Watervoort N.F., **Fallon T.R.**, Riedling O.L., Manning S.R., Moore B.S., and Driscoll W.W. (2023). Extreme genome diversity and cryptic speciation in a harmful algal-bloom-forming eukaryote. *Current Biology* 33:2246-2259.e8. doi:[10.1016/j.cub.2023.05.003](https://doi.org/10.1016/j.cub.2023.05.003)
+
 Lima S.T., **Fallon T.R.** \*, Cordoza J.L. \*, Chekan J.R., Delbaje E, Hopiavuori A.R., Alvarenga D.O., Wood S.M. †, Luhavaya H, Baumgartner J.T., Dörr F.A., Etchegaray A, Pinto E, McKinnie S.M.K., Fiore M.F., and Moore B.S. (2022). Biosynthesis of Guanitoxin Enables Global Environmental Detection in Freshwater Cyanobacteria. *JACS*  144:9372–9379. doi:[10.1021/jacs.2c01424](https://pubs.acs.org/doi/10.1021/jacs.2c01424)
 
 Kersten R.D., Mydy LS, **Fallon T.R.**, de Waal F, Shafiq K, Wotring J.W., Sexton J.Z., and Weng J.-K. (2022). Gene-Guided Discovery and Ribosomal Biosynthesis of Moroidin Peptides. *JACS* 144:7686–7692. doi:[10.1021/ jacs.2c00014](https://pubs.acs.org/doi/full/10.1021/jacs.2c00014)
