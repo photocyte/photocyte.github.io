@@ -4,6 +4,12 @@ title: Media & Press
 menu: true
 order: 13
 ---
+August 2024. PKZILLA proteins smash protein size limits. [https://cen.acs.org/biological-chemistry/PKZILLA-proteins-smash-protein-size/102/web/2024/08](https://cen.acs.org/biological-chemistry/PKZILLA-proteins-smash-protein-size/102/web/2024/08) (accessed 2024-08-09)
+
+August 2022. Illumina donation supports scientists, students who develop drugs from the sea. [https://www.sandiegouniontribune.com/business/story/2022-08-04/illumina-scripps-oceanography-labs](https://www.sandiegouniontribune.com/business/story/2022-08-04/illumina-scripps-oceanography-labs) (accessed 2022-08-04)
+
+August 2022. Illumina supports enhanced genomics-enabled discovery and training programs at UC San Diego [https://scripps.ucsd.edu/news/illumina-supports-enhanced-genomics-enabled-discovery-and-training-programs-uc-san-diego](https://scripps.ucsd.edu/news/illumina-supports-enhanced-genomics-enabled-discovery-and-training-programs-uc-san-diego) (accessed 2022-08-04)
+
 August 2022. SPARKLING WATERS - Tiny Caribbean crustaceans and their bioluminescent mating displays are shining new light on evolution. 
 [https://www.science.org/content/article/sea-fireflies-caribbean-shining-new-light-evolution](https://www.science.org/content/article/sea-fireflies-caribbean-shining-new-light-evolution) (accessed 2022-09-01)
 
