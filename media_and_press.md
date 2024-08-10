@@ -4,6 +4,8 @@ title: Media & Press
 menu: true
 order: 13
 ---
+August 2024. Olympian algae! with proteins that outrank everything seen before. [https://www.bbc.co.uk/sounds/play/w3ct5vd3](https://www.bbc.co.uk/sounds/play/w3ct5vd3) (accessed 2024-08-10)
+
 August 2024. PKZILLA proteins smash protein size limits. [https://cen.acs.org/biological-chemistry/PKZILLA-proteins-smash-protein-size/102/web/2024/08](https://cen.acs.org/biological-chemistry/PKZILLA-proteins-smash-protein-size/102/web/2024/08) (accessed 2024-08-09)
 
 August 2024. Largest Protein Yet Discovered Builds Algal Toxins. [https://scripps.ucsd.edu/news/largest-protein-yet-discovered-builds-algal-toxins](https://scripps.ucsd.edu/news/largest-protein-yet-discovered-builds-algal-toxins) (accessed 2024-08-08)
