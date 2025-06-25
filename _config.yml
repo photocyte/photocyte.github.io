@@ -64,8 +64,6 @@ menu:
     url:               /posts/
   - title:             Media & Press
     url:               /media_and_press/
-  - title:             FireflyBase.org
-    url:               http://www.fireflybase.org
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -76,7 +74,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             Timothy R. Fallon © 2024. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+copyright:             Timothy R. Fallon © 2025. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -312,7 +310,6 @@ social:
    links:
      - https://twitter.com/photocyte
      - https://github.com/photocyte
-     - https://www.fireflybase.org
 
 
 # Other Plugins
