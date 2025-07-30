@@ -3,12 +3,14 @@
 # Change `author1` to your shortname.
 author1:
   name:              "Tim Fallon, PhD"
-  email:             tfallon@ucsd.edu
+  email:             timfallonphd@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-   I am a Postdoctoral Scholar in the [Moore Lab](http://scrippsscholars.ucsd.edu/bsmoore) at the Scripps Institution of Oceanography and UC San Diego. I joined the Moore Lab in July 2019, and was a self-funded NIH/NIEHS F32 Postdoctoral Fellow in the Moore lab from 2020 through 2023. . I completed my PhD in the [Weng Laboratory](http://wenglab.wi.mit.edu/) of the Department of Biology of the Massachusetts Institute of Technology. 
+   I'm a scientist and engineer who thrives at the intersection of science, software, and hardware. 
+
+   I was a Postdoctoral Scholar in the [Moore Lab](http://scrippsscholars.ucsd.edu/bsmoore) at the Scripps Institution of Oceanography and UC San Diego. I joined the Moore Lab in July 2019, and was a self-funded NIH/NIEHS F32 Postdoctoral Fellow in the Moore lab from 2020 through 2023. I completed my PhD in the [Weng Laboratory](http://wenglab.wi.mit.edu/) of the Department of Biology of the Massachusetts Institute of Technology. 
 
    My postdoctoral research elucidated the [first known causal biosynthetic genes (the "PKZILLAs")](https://www.science.org/doi/10.1126/science.ado3290) for an algal giant marine polyether toxin - an impactful class of molecules of significant pharmaceutical and toxicological interest.
 
@@ -24,21 +26,22 @@ author1:
    * The discovery of sulfoluciferin and luciferin sulfotransferase, which we now understand are conserved in all fireflies (Lampyridae)
 
    ### More information
-   * Curriculum vitae (CV): [Timothy_R_Fallon_CV_PW-is-Spring2022.pdf](/CVs/Timothy_R_Fallon_CV_PW-is-Spring2022.pdf) (CV password protected with **Spring2022** to prevent webcrawler email spam)
-   * ORCID: [0000-0002-3048-7679](https://orcid.org/0000-0002-3048-7679)
-   * Google Scholar [publications and citations](https://scholar.google.com/citations?hl=en&user=CEPlauQAAAAJ&view_op=list_works&sortby=pubdate)   
    * LinkedIn - <a rel="me" href="https://www.linkedin.com/in/timfallonphd/">timfallonphd</a>
-   * Mastodon - <a rel="me" href="https://genomic.social/@photocyte">@photocyte@genomic.social</a>
    * GitHub - <a rel="me" href="https://github.com/photocyte">photocyte</a>
    * GitLab - <a rel="me" href="https://gitlab.com/photocyte">photocyte</a>
+   * X.com - <a rel="me" href="https://x.com/photocyte</a>
+   * Mastodon - <a rel="me" href="https://genomic.social/@photocyte">@photocyte@genomic.social</a>
+   * Academic style Curriculum vitae (CV): [Timothy_R_Fallon_CV_PW-is-Spring2022.pdf](/CVs/Timothy_R_Fallon_CV_PW-is-Spring2022.pdf) (CV password protected with **Spring2022** to prevent webcrawler email spam)
+   * ORCID: [0000-0002-3048-7679](https://orcid.org/0000-0002-3048-7679)
+   * Google Scholar [publications and citations](https://scholar.google.com/citations?hl=en&user=CEPlauQAAAAJ&view_op=list_works&sortby=pubdate)   
 
    ### Miscellaneous endevours
    * In 2017 We launched the datasite for the firefly genome project: <http://www.fireflybase.org> (Now sunsetted, and data migrated to NCBI)
    * In 2016 Crowdfunded the project to sequence the *Photinus pyralis* genome on the Experiment.com Scientific crowdfunding platform: <https://experiment.com/projects/illuminating-the-firefly-genome>
    * In 2014 I took the "How to Make Almost Anything" class at the MIT media lab. You can see my exploits here: <http://fab.cba.mit.edu/classes/863.14/people/tim_fallon/index.html>
 
-   ### Collaborators
-   - Wisecaver lab (Purdue) <https://www.wisecaverlab.com>
+   ### Academic Collaborators
+   - Wisecaver lab (WSU) <https://labs.wsu.edu/wisecaver/>
    - Moore Lab (SIO/UCSD) <http://scrippsscholars.ucsd.edu/bsmoore>
    - Weng Lab (MIT): <https://wenglab.net>
    - Lewis Lab (Tufts): <https://ase.tufts.edu/biology/faculty/lewis/>
@@ -47,8 +50,7 @@ author1:
    - Stanger-Hall lab (UGA): <http://research.franklin.uga.edu/stanger-hall/>
    - Oba lab (Chubu University): <https://www3.chubu.ac.jp/faculty/oba_yuichi/english_page/>
    - Fireflyers International: <https://fireflyersinternational.net/>  
-
-  
+ 
  # This photo will be used in the about section
   picture:
     path:            https://avatars3.githubusercontent.com/u/12517705?s=400&u=b86c907899da6f1ef01c1898a8153cbc46f24c75&v=4
