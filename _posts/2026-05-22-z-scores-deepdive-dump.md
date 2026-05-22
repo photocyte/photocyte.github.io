@@ -1,5 +1,10 @@
 # Z-Scores as Grades: Evidence, Prior Art, and the Corporate Parallel
 
+Note: This is a an AI generated deep research report, from Anthropic Opus 4.7, generated 2026-05-21, in response to:
+https://x.com/photocyte/status/2057468068671185023?s=20
+
+Long story short, Z-scores have some precedent for use in grading (See the Sri Lanka Supreme Court mentions below!), however they don't seem to work very well. Also, the prompt for this deep research report was the literal copy paste of the Twitter thread, so that is why the report oddly uses first names in places..
+
 ## TL;DR
 - **Literal z-score grading exists, but only in two places: (1) Sri Lanka's national university-admission system, where the A-level Z-score has been the primary selection criterion since 2001, and (2) a small number of individual STEM instructors (e.g., Otto Mueller at Alfred U.; Justin Larsen and Madsen at UC Davis; Gary Pielak at UNC). No North American university uses pure z-scores as transcript grades; Quebec's Cote R is the closest institutional analog, but it deliberately modifies the raw z-score to fix the very problems Sri Kosuri's tweet glosses over.**
 - **The most serious analytic prior art is not z-scores per se but a family of latent-trait / paired-comparison models — Valen Johnson's Bayesian Achievement Index (1997, 2003), Vanderbei et al.'s regression-based "fair grading" (2014), Caulkins-Larkey-Wei (1996), and Wittman (2022). These dominate pure z-scores statistically because they handle non-normal grade distributions, student selection into easy classes, and small-cohort instability. The Bradley-Terry-Luce route (mathematically equivalent to Elo) is well developed for item-level grading (Chen-Hartline-Zoeter 2023; Pelánek 2016) but, surprisingly, no one has yet published an "Elo for transcripts" proposal — a real gap Tim could fill.**
