@@ -1,7 +1,7 @@
 # Z-Scores as Grades: Evidence, Prior Art, and the Corporate Parallel
 
 Note: This is a an AI generated deep research report, from Anthropic Opus 4.7, generated 2026-05-21, in response to:
-https://x.com/photocyte/status/2057468068671185023?s=20
+[https://x.com/photocyte/status/2057468068671185023?s=20](https://x.com/photocyte/status/2057468068671185023?s=20)
 
 Long story short, Z-scores have some precedent for use in grading (See the Sri Lanka Supreme Court mentions below!), however they don't seem to work very well. Also, the prompt for this deep research report was the literal copy paste of the Twitter thread, so that is why the report oddly uses first names in places..
 
