@@ -1,0 +1,27 @@
+{
+  "theme": {
+    "repository": "https://github.com/hydecorp/hydejack",
+    "release": "v9.2.1",
+    "commit": "60dc33975f8fccb1a23f44ee553acb52f6b3cf86"
+  },
+  "components": {
+    "component": {
+      "package": "@hydecorp/component",
+      "version": "1.0.0",
+      "integrity": "sha512-rEe6FjRRnHkNeXy90VRMgM74NFze80NvA8zTdfS3dXTZeBjC3JpvYNKn1V+E7y007tAa6zNZuVnNczlNQXeLiw==",
+      "license": "MIT"
+    },
+    "drawer": {
+      "package": "@hydecorp/drawer",
+      "version": "1.0.0",
+      "integrity": "sha512-DS4pEyIlwcXBJTcsyInBzsR9BumFIzp6MjheuWB2zCNhkLM0UdMu+ZkYkeFGa3dKiLYyG4OtxMxXytseRp4zCQ==",
+      "license": "GPL-3.0"
+    },
+    "push-state": {
+      "package": "@hydecorp/push-state",
+      "version": "1.0.0",
+      "integrity": "sha512-7nEo1jQ2qozlw6NCTIYsCJ6Rp8ZAvvvvxJoabTZAi9Lv7JVe4S5ZK3MJWv5Y4oz4rZyxtDYe156Crrk26SX7wg==",
+      "license": "GPL-3.0"
+    }
+  }
+}

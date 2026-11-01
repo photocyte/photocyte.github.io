@@ -1,9 +1,10 @@
 # Development container
 
 Open the **repository root** in VS Code, then run **Dev Containers: Reopen in
-Container**. Docker Desktop must be running. The container uses Ruby 3.3 on
-Debian Bookworm, matching the Ruby series used by GitHub Pages. Dependencies
-are installed automatically on first creation.
+Container**. Docker Desktop must be running. The container uses Ruby 4 on
+Debian Bookworm, with the same Ruby and Node series used by CI. Dependencies
+are installed automatically and theme assets are built on first creation. Node
+26 LTS is installed using the version file and the image's bundled nvm.
 
 The default is **native Linux ARM64** on Apple silicon. The Compose platform
 setting overrides a host-wide `DOCKER_DEFAULT_PLATFORM=linux/amd64`; no Rosetta
@@ -25,7 +26,8 @@ The server starts only when you run it, and container setup never deploys.
 For a production-mode build:
 
 ```sh
-JEKYLL_ENV=production bundle exec jekyll build --safe
+npm run build
+JEKYLL_ENV=production bundle exec jekyll build
 ```
 
 On an Intel development host or an amd64 Codespace, set `DEVCONTAINER_ARCH=amd64`
@@ -40,9 +42,14 @@ docker compose -f .devcontainer/compose.yaml pull
 
 Dependabot also checks the Compose image weekly for version updates.
 
-Without a devcontainer, use Ruby 3.3 and run:
+Without a devcontainer, use Ruby 4 and run:
 
 ```sh
 bundle install
+npm ci --ignore-scripts
+npm run build
 bundle exec jekyll serve
 ```
+
+Commit Gemfile.lock and package-lock.json when updating dependencies. See
+MAINTENANCE.md for audits, browser tests, and deployment/rollback.
