@@ -48,3 +48,10 @@ _zip
 /stats.json
 
 #<removed>
+
+# Local Jekyll/Bundler artifacts
+/Gemfile.lock
+/bundle
+
+# Microsoft Office temporary owner files
+~$*
