@@ -58,3 +58,6 @@ _zip
 
 # Jekyll build cache
 .jekyll-cache/
+
+# Ruby LSP development cache
+.ruby-lsp/

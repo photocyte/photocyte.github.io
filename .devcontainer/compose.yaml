@@ -1,0 +1,22 @@
+services:
+  jekyll:
+    image: mcr.microsoft.com/devcontainers/ruby:3.3-bookworm
+    # Override a host-wide DOCKER_DEFAULT_PLATFORM=linux/amd64 on Apple silicon.
+    platform: linux/${DEVCONTAINER_ARCH:-arm64}
+    user: vscode
+    init: true
+    working_dir: /workspaces/photocyte.github.io
+    command: sleep infinity
+    environment:
+      JEKYLL_ENV: development
+      # Keep Linux native extensions out of the macOS checkout and separate by ISA.
+      BUNDLE_PATH: /home/vscode/.bundle-cache/${DEVCONTAINER_ARCH:-arm64}
+      BUNDLE_IGNORE_CONFIG: "1"
+      # Use the image's Bundler even if an old ignored lockfile requests Bundler 1.
+      BUNDLE_VERSION: system
+    volumes:
+      - ..:/workspaces/photocyte.github.io:cached
+      - bundle:/home/vscode/.bundle-cache
+
+volumes:
+  bundle:

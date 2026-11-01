@@ -1,0 +1,36 @@
+{
+  "name": "Photocyte Jekyll (ARM64)",
+  "dockerComposeFile": "compose.yaml",
+  "service": "jekyll",
+  "workspaceFolder": "/workspaces/photocyte.github.io",
+  "remoteUser": "vscode",
+  "shutdownAction": "stopCompose",
+  "postCreateCommand": "bash .devcontainer/setup.sh",
+  "forwardPorts": [4000, 35729],
+  "portsAttributes": {
+    "4000": {
+      "label": "Jekyll preview",
+      "onAutoForward": "notify"
+    },
+    "35729": {
+      "label": "Jekyll LiveReload",
+      "onAutoForward": "silent"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "Shopify.ruby-lsp",
+        "sissel.shopify-liquid",
+        "redhat.vscode-yaml"
+      ],
+      "settings": {
+        "files.watcherExclude": {
+          "**/_site/**": true,
+          "**/.jekyll-cache/**": true,
+          "**/.sass-cache/**": true
+        }
+      }
+    }
+  }
+}
