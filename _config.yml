@@ -1,7 +1,7 @@
 # Config
 # ========================================================================================
 
-# Theme files are provided by the pinned remote_theme release below.
+# Theme source and dependencies are maintained locally in _theme.
 
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
@@ -137,7 +137,8 @@ defaults:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:      UA-121214450-1
+# Universal Analytics retired; the old UA tag no longer collects data.
+google_analytics:      false
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
@@ -261,6 +262,11 @@ exclude:
   - README.md
   - bundle
   - graveyard
+  - MAINTENANCE.md
+  - tests
+  - playwright.config.mjs
+  - test-results
+  - playwright-report
 include:
   - LICENSE.md
   - .well-known
@@ -281,13 +287,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jekyll-include-cache
-  - jekyll-remote-theme
 
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# Hydejack v9.2.1, pinned to its immutable release commit.
-remote_theme: hydecorp/hydejack@60dc33975f8fccb1a23f44ee553acb52f6b3cf86
+theme: jekyll-theme-hydejack
 
 # SEO Tag
 # ---------------------------------------------------------------------------------------

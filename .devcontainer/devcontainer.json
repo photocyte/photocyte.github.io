@@ -4,6 +4,9 @@
   "service": "jekyll",
   "workspaceFolder": "/workspaces/photocyte.github.io",
   "remoteUser": "vscode",
+  "remoteEnv": {
+    "PATH": "/usr/local/share/nvm/current/bin:${containerEnv:PATH}"
+  },
   "shutdownAction": "stopCompose",
   "postCreateCommand": "bash .devcontainer/setup.sh",
   "forwardPorts": [4000, 35729],
