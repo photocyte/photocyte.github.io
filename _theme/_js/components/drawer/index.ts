@@ -1,4 +1,4 @@
-/** 
+/**
  * Copyright (c) 2020 Florian Klampfer <https://qwtel.com/>
  *
  * This program is free software: you can redistribute it and/or modify
@@ -13,8 +13,8 @@
  *
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
- * 
- * @license 
+ *
+ * @license
  * @nocompile
  */
 import { html } from 'lit';
@@ -35,7 +35,7 @@ import { UpdateMixin, DOMUpdater } from './update';
 import { styles } from './styles';
 
 @customElement('hy-drawer')
-export class HyDrawer 
+export class HyDrawer
     extends applyMixins(RxLitElement, [ObservablesMixin, UpdateMixin, CalcMixin])
     implements ObservablesMixin, UpdateMixin, CalcMixin {
 
@@ -63,7 +63,7 @@ export class HyDrawer
   get initialized() {
     return this.#initialized;
   }
- 
+
   // get histId() { return this.id || this.tagName; }
   // get hashId() { return `#${this.histId}--opened`; }
 
@@ -341,7 +341,7 @@ export class HyDrawer
   //   const { backable } = history.state && history.state[this.histId] || { backable: false }
   //   if (hasClosed && backable) {
   //     history.back()
-  //   } 
+  //   }
   //   if (hasOpened && location.hash !== this.hashId) {
   //     location.hash = this.hashId;
   //   }
@@ -357,8 +357,8 @@ export class HyDrawer
           pointerEvents: this.scrimClickable ? 'all' : '',
         })}>
       </div>
-      ${this.mouseEvents && this.grabbing && !this.scrimClickable 
-        ? html`<div class="grabbing-screen full-screen"></div>` 
+      ${this.mouseEvents && this.grabbing && !this.scrimClickable
+        ? html`<div class="grabbing-screen full-screen"></div>`
         : null}
       <div
         class=${classMap({
@@ -368,7 +368,7 @@ export class HyDrawer
           grab: this.mouseEvents,
           grabbing: this.mouseEvents && this.grabbing,
         })}
-        style=${styleMap({ 
+        style=${styleMap({
           willChange: this.willChange ? 'transform' : '',
         })}
       >

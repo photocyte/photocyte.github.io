@@ -4,12 +4,12 @@ import { Subject } from "rxjs";
 export class RxLitElement extends LitElement {
   $connected = new Subject<boolean>();
 
-  connectedCallback() { 
+  connectedCallback() {
     super.connectedCallback();
     this.$connected.next(true);
   }
 
-  disconnectedCallback() { 
+  disconnectedCallback() {
     super.disconnectedCallback();
     this.$connected.next(false);
   }

@@ -18,7 +18,7 @@ hy-push-state a {
 
   // <<< inline
   @supports not ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
-    text-decoration: none; 
+    text-decoration: none;
     border-bottom: 2px solid;
   }
 
@@ -30,8 +30,8 @@ hy-push-state a {
   // >>>
 
   // <<< link
-  & { 
-    transition: color 250ms, text-decoration-color 250ms, border-color 250ms; 
+  & {
+    transition: color 250ms, text-decoration-color 250ms, border-color 250ms;
   }
   &:hover {
     transition: color 50ms, text-decoration-color 50ms, border-color 50ms;

@@ -108,14 +108,14 @@ This software also uses portions of the
 `Modernizr/Modernizr`
 project, which is [MIT] licensed with the following copyright:
 
-> Copyright (c)  
->  Faruk Ates  
->  Paul Irish  
->  Alex Sexton  
->  Ryan Seddon  
->  Patrick Kettner  
->  Stu Cox  
->  Richard Herrera  
+> Copyright (c)\
+>  Faruk Ates\
+>  Paul Irish\
+>  Alex Sexton\
+>  Ryan Seddon\
+>  Patrick Kettner\
+>  Stu Cox\
+>  Richard Herrera\
 
 
 ### Compress HTML in Jekyll
@@ -179,7 +179,7 @@ This software also uses portions of the
 `twbs/bootstrap`
 project, which is [MIT] licensed with the following copyright:
 
-> Copyright (c) 2011-2018 Twitter, Inc.  
+> Copyright (c) 2011-2018 Twitter, Inc.\
 > Copyright (c) 2011-2018 The Bootstrap Authors
 
 
@@ -286,4 +286,3 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 [CC-BY-SA-3.0]: https://creativecommons.org/licenses/by-sa/3.0/
 [CC0-1.0]: https://creativecommons.org/publicdomain/zero/1.0/deed.en
 [Unsplash]: https://unsplash.com/license
-

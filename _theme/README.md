@@ -2,7 +2,7 @@
 
 # Hydejack
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
+A boutique Jekyll theme for hackers, nerds, and academics.\
 
 
 
@@ -13,7 +13,7 @@ A boutique Jekyll theme for hackers, nerds, and academics.
 
 
 
-**Hydejack** is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
+**Hydejack** is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress.
 
 It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
 
@@ -144,9 +144,9 @@ The table below shows what's included in each version:
 
 [^21]: Large screens (> 1664px width) only.
 
-[^xx]: 
+[^xx]:
     Discounts may apply, check [Gumroad][buy] for up-to-date pricing.
-    
+
 
 
 
