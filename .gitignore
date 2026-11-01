@@ -55,3 +55,6 @@ _zip
 
 # Microsoft Office temporary owner files
 ~$*
+
+# Jekyll build cache
+.jekyll-cache/
