@@ -87,8 +87,8 @@ The test suite distinguishes those third-party errors from first-party failures.
 
 Remaining maintenance debt: the Sass source uses deprecated `@import` syntax.
 It works with the current Dart Sass compiler. Migrate those styles to modules
-before adopting a future Sass version that removes imports. Native ARM64 is
-tested locally and amd64 is tested by GitHub Actions; old IE/polyfill bundles
+before adopting a future Sass version that removes imports. Native ARM64 is used
+locally and on GitHub Actions (`ubuntu-24.04-arm`); old IE/polyfill bundles
 are retired, with static content preserved for browsers without JavaScript.
 
 ## Deployment and rollback
