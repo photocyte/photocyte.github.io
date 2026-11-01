@@ -1,6 +1,6 @@
 services:
   jekyll:
-    image: mcr.microsoft.com/devcontainers/ruby:3.3-bookworm
+    image: mcr.microsoft.com/devcontainers/ruby:4-4-bookworm
     # Override a host-wide DOCKER_DEFAULT_PLATFORM=linux/amd64 on Apple silicon.
     platform: linux/${DEVCONTAINER_ARCH:-arm64}
     user: vscode
