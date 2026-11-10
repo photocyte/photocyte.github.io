@@ -10,7 +10,7 @@ gem "logger", "~> 1.7.0"
 group :jekyll_plugins do
   gem "jekyll-default-layout", "~> 0.2.1"
   gem "jekyll-feed", "~> 0.18.0"
-  gem "jekyll-optional-front-matter", "~> 0.3.4"
+  gem "jekyll-optional-front-matter", "~> 0.3.5"
   gem "jekyll-paginate", "~> 1.1.0"
   gem "jekyll-readme-index", "~> 0.5.1"
   gem "jekyll-redirect-from", "~> 0.17.0"
