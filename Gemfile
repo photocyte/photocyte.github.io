@@ -12,7 +12,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.18.0"
   gem "jekyll-optional-front-matter", "~> 0.3.4"
   gem "jekyll-paginate", "~> 1.1.0"
-  gem "jekyll-readme-index", "~> 0.5.1"
+  gem "jekyll-readme-index", "~> 0.6.0"
   gem "jekyll-redirect-from", "~> 0.17.0"
   gem "jekyll-relative-links", "~> 0.9.1"
   gem "jekyll-seo-tag", "~> 2.9.1"
