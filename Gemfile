@@ -17,7 +17,7 @@ group :jekyll_plugins do
   gem "jekyll-relative-links", "~> 0.9.1"
   gem "jekyll-seo-tag", "~> 2.9.1"
   gem "jekyll-sitemap", "~> 1.4.0"
-  gem "jekyll-titles-from-headings", "~> 0.5.7"
+  gem "jekyll-titles-from-headings", "~> 0.6.0"
   gem "jekyll-include-cache", "~> 0.3.1"
 end
 
